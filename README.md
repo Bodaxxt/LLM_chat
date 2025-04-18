@@ -10,5 +10,5 @@
 ## كيفية التشغيل
 1. استنسخ المشروع:
    ```bash
-   git clone https://github.com/username/raafed-ai-assistant.git
-   cd raafed-ai-assistant
+   git clone [https://github.com/username/raafed-ai-assistant.git](https://github.com/Bodaxxt/LLM_chat.git)
+  
